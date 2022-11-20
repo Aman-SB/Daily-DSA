@@ -1,3 +1,2 @@
-for(int i=0;i<index;i++){
-        //     cout<<subs[i];
-        // }
+for (int i = 0; i < arr.size(); i++)
+    //     freq[i] = 0;
